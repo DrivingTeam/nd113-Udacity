@@ -1,2 +1,2 @@
-##Solutions of project one:
-<center>##ParallelParking</center>
+## Solutions of project one:
+ParallelParking
