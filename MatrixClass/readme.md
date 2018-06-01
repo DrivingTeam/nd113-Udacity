@@ -1,2 +1,2 @@
-## Solution of Project three:
+## Solutions of Project three:
 implement `Class Matrix()`
